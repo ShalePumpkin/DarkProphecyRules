@@ -2,10 +2,12 @@
 
 # Table of Conents
  - [Introduction](#introduction)
- - [Setup](./#Setup)
- - [How to Play](./#how-to-play
- - Ending the Game
- - Declaring the Winner
+ - [Setup](#setup)
+ - [How to Play](#how-to-play)
+   - [Start of the Round](#start-of-the-round)
+   - On Your Turn
+   - Ending the Game
+   - Declaring the Winner
 
 
 ## Introduction
