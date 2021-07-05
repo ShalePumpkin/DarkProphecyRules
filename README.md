@@ -3,7 +3,7 @@
 # Table of Conents
  - [Introduction](./#Introduction)
  - [Setup](./#Setup)
- - How to Play
+ - [How to Play](./#how-to-play
  - Ending the Game
  - Declaring the Winner
 
@@ -57,6 +57,7 @@ You win by having the most Victory Points at the end of the game. Earn points by
 Randomly select the first player then begin Round 1.
 
 # How To Play
+<!-- tags:"rounds,turns" -->
 Dark Prophecy is played over a series of *Rounds*. Each Round consists of each player taking a *Turn*.
 
 ## Start of the Round
