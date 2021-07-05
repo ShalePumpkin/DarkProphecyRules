@@ -1,7 +1,7 @@
 # Dark Prophecy Rules
 
 # Table of Conents
- - [Introduction](./#Introduction)
+ - [Introduction](#introduction)
  - [Setup](./#Setup)
  - [How to Play](./#how-to-play
  - Ending the Game
