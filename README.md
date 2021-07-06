@@ -2,12 +2,15 @@
 
 # Table of Conents
  - [Introduction](#introduction)
- - [Setup](#setup)
- - [How to Play](#how-to-play)
-   - [Start of the Round](#start-of-the-round)
-   - On Your Turn
-   - Ending the Game
-   - Declaring the Winner
+ - [Learning to Play](#learing-to-play)
+   - [Setup](#setup)
+   - [How to Play](#how-to-play)
+     - [Start of the Round](#start-of-the-round)
+     - [On Your Turn](#on-your-turn)
+     - [Revealing Prophecy Verses](#revealing-prophecy-verses)
+     - [Ending the Game](#ending-the-game)
+     - [Declaring the Winner](#declaring-the-winner)
+ - [Rules Reference](#rules-reference)
 
 
 ## Introduction
@@ -23,6 +26,10 @@ In Dark Prophecy you will:
 
 ### How To Win
 You win by having the most Victory Points at the end of the game. Earn points by completing Dark Deeds, leveling up your Disciplines, and playing certain cards.
+
+---
+
+# Learning To Play
 
 # Setup
 
@@ -70,7 +77,7 @@ Your turn is divided into three phases:
 
  - **Action Phase**: Take up to 2 actions.
  - **Prophecy Phase**: Read the revealed Prophecy Verses and gain their benefits
- - **End of Turn**: Draw up to your hand size. Default 5 cards.
+ - **End of Turn Phase**: Draw up to your hand size. Default 5 cards.
 
 ### Action Phase
 During your Action Phase you may take up to 2 actions. You do not have to use all your actions. You may perform the following actions in any order. You may perform each action more than once. The actions are listed here and detailed below:
@@ -93,8 +100,9 @@ The Discipline of the card discarded does *not* need to match the Discipline you
 >Tinnifer has Blood Magic of level 0. She discards a card of Power 2, then rotates her Blood Magic 90 degrees, making it level 1.
 
 ### Prophecy Phase
+During the Prophecy Phase, read the Prophecy Verses that have been revealed so far in order of Opening, Middle, Final.
 
+Fully resolve the text on each revealed verse before continuing to the next verse.
 
-
-
-
+### End of Turn Phase
+Draw cards from the deck until you reach your hand size. The default hand size is 5. If you are already at or above your hand size, you do not draw any cards.
